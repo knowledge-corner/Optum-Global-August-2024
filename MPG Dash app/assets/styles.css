@@ -1,0 +1,7 @@
+/* Style for the row with border and rounded corners */
+.rounded {
+    border: 2px solid #007bff; /* Border color and thickness */
+    border-radius: 10px; /* Rounded corners */
+    padding: 10px; /* Padding inside the border */
+    margin-bottom: 20px; /* Spacing below the row */
+}
